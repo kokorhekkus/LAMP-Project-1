@@ -5,8 +5,9 @@
 // Database config
 $DBSERVER = "localhost";
 $DB = "karim1";
-$DBUSER = "root";
-$DBPASS = "uvTeckpan8";
+$DBUSER = "krashad";
+// Above user has no password
+//$DBPASS = "";
 
 // Mail config
 $AM_REPLYTO = "karimrashad@gmail.com";

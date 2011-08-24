@@ -9,7 +9,7 @@
 <?php
 	require('common.php');
 	require('conf.php');
-	$link = mysql_connect($DBSERVER, $DBUSER, $DBPASS);
+	$link = mysql_connect($DBSERVER, $DBUSER);
 	if (!$link) {
 		die('Could not connect: ' . mysql_error());
 	}	
