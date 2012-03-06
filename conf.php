@@ -10,7 +10,7 @@ $DBUSER = "krashad";
 //$DBPASS = "";
 
 // Mail config
-$AM_REPLYTO = "karimrashad@gmail.com";
+$AM_REPLYTO = "kobfuscated@gmail.com";
 
 // Login config
 $LOGINTIME = 1000;
